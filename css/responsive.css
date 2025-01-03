@@ -1,0 +1,135 @@
+@media (max-width: 992px) {
+  .provice-special .top {
+    flex-direction: column;
+  }
+
+  .provice-special .province {
+    display: flex;
+  }
+
+  .provice-special .province-news .col-md-4 {
+    padding-right: 5px;
+  }
+
+  .provice-special .province-news a h2 {
+    font-size: 1rem;
+  }
+
+  .provice-special .province-heading a h3 {
+    margin-top: 17px;
+    font-size: 1.5rem;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .provice-special .top a h3 {
+    font-size: 1rem;
+  }
+
+  .news-content-type-3 .left .bottom .row .khel a h2 {
+    font-size: 1rem;
+  }
+
+  .news-content-type-3 .left .bottom .row .news {
+    flex-direction: column;
+  }
+
+  .news-content-type-3 .left .bottom .row .news a img {
+    min-height: 200px;
+    width: 100%;
+  }
+
+  .news-content-type-3 .left .bottom .row .news a h3 {
+    font-size: 1rem;
+    margin: 7px 0px 0px 3px;
+  }
+  section .features {
+    padding: 76px 70px;
+  }
+  .owl-nav button.owl-prev{
+    position: absolute;
+    left: -40px;
+    top: -200px;
+}
+.owl-nav button.owl-next{
+    position: absolute;
+    right: -40px;
+    top: -200px;
+}
+}
+
+@media (max-width: 768px) {
+  .nav-logo .nav-logo-top {
+    width: 190px;
+    height: 130px;
+  }
+
+}
+
+@media (max-width: 576px) {
+  .nav-logo .nav-logo-top {
+    width: 170px;
+    height: 115px;
+  }
+
+  .date .current-date {
+    padding: 0px;
+    font-size: 0.9rem;
+    display: none;
+  }
+  .footer-bottom .container{
+   flex-direction: column;
+}
+
+  .provice-special .top .provinces-box .provinces {
+    margin: 0 4px;
+  }
+
+  .provice-special .top .arrow {
+    margin-right: 5px;
+  }
+
+  .news-content-type-3 .what-people-say .question h2 {
+    font-size: 1rem;
+  }
+
+  .answer {
+    font-size: 14px;
+  }
+
+  .answer-container .btn {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .our-thoughts .my-thought h3 {
+    font-size: 0.9rem;
+  }
+
+  .news-section2 .news-content-type-2 h1 {
+    font-size: 1.4rem;
+  }
+
+  .news-section1 .container h1 {
+    font-size: 1.4rem;
+  }
+
+  #health-section .cover1 {
+    flex-direction: column;
+  }
+  #health-section .cover1 .doctors {
+    margin-left: 0;
+  }
+  #health-section .cover1 button.content {
+    margin-bottom: 20px;
+  }
+  #health-section .cover1 {
+    border-bottom: 1px solid #9f9f9f;
+    margin-bottom: 20px;
+  }
+}
+
+
+  @media (min-width: 1200px) {}
+
+  @media (min-width: 1400px) {}
